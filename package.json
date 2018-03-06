@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://suchiiz1.github.io/personalfinanceforkids/",
+  "homepage": "https://suchiiz1.github.io/personalfinanceforkids",
   "dependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
