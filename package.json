@@ -1,8 +1,8 @@
 {
   "name": "react-gh-pages",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "http://suchiiz1.github.io/personalfinancefotkids/",
+  "private": true,
+  "homepage": "http://suchiiz1.github.io/personalfinancefotkids",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
